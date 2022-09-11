@@ -1,0 +1,23 @@
+.photo-grid__list {
+  margin: 0;
+  padding: 0;
+  max-height: 213px;
+}
+
+@media screen and (max-width: 1279px) {
+  .photo-grid__list {
+    max-height: 225px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .photo-grid__list {
+    max-height: 264px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .photo-grid__list {
+    max-height: 216px;
+  }
+}

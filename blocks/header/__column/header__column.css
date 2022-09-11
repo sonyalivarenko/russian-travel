@@ -1,0 +1,13 @@
+.header__column {
+  display: flex;
+  margin-bottom: 6px;
+}
+
+@media screen and (max-width: 767px) {
+  .header__column {
+    margin-bottom: 8px;
+  }
+}
+
+
+

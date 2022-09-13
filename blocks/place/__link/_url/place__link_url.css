@@ -1,5 +1,5 @@
-.link__url {
-  font-family: 'Inter';
+.place__link_url {
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -9,4 +9,5 @@
   margin: 0;
   align-self: end;
   margin-bottom: 12px;
+  text-transform: uppercase;
 }

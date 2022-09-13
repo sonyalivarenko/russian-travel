@@ -1,13 +1,13 @@
 .cover {
-  min-height: 740px;
+  max-height: 740px;
   margin-left: 48px;
   margin-right: 48px;
   margin-bottom: 92px;
 }
 
-.cover:hover .cover_color_black {
+.cover:hover .cover__black {
   opacity: 0.8;
-}
+} 
 
 @media screen and (max-width: 1279px) {
   .cover {

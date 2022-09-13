@@ -1,9 +1,9 @@
-.link {
+.place__link {
   align-self: end;
 }
 
 @media screen and (max-width: 767px) {
-  .link {
+  .place__link {
     margin-left: 16px;
     margin-right: 16px;
   } 
